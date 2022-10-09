@@ -28,7 +28,3 @@ IOS Engineer with 5+ years of experience.Good experienced and skilled iPhone App
 
 
 Show some ❤️ by starring some of the repositories and also following me on GitHub.
-
-##### MY GITHUB STATS 
-
-![mohamedGamal0' github stats](https://github-readme-stats.vercel.app/api?username=juanpe&count_private=true&show_icons=true)
