@@ -8,7 +8,7 @@ I'm *Mohamed Gamal* a Ios software Engineer. I Spend most of time coding in Swif
 [![Mail Badge](https://img.shields.io/badge/-Moh.Gamal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedGamalmohamed48@gmail.com)
 
 
-- 🔭 I’m currently working at <a href="https://www.areebtechnology.com/">Areeb Technology</a><img src="https://static.wixstatic.com/media/744456_281103ce7059444a9c65747d72d9ee40~mv2.png/v1/fill/w_180,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-01.png" width="30">
+- 🔭 I’m currently working at <a href="https://www.areebtechnology.com/">Areeb Technology</a> <img src="https://static.wixstatic.com/media/744456_281103ce7059444a9c65747d72d9ee40~mv2.png/v1/fill/w_180,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-01.png" width="40">
 - 💻 Most used line of code `git commit -m "Doing something cool"`
 - ⚡ Fun fact: I love Marvel movies.
 
