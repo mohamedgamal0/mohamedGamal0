@@ -1,11 +1,12 @@
 ## Hi I'm Mohamed Gamal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm *Mohamed Gamal* a Ios software Engineer. I Spend most of time coding in Swift projects.
+I'm *Mohamed Gamal* an Ios Software Engineer. I Spend most of my time coding in Swift projects.
 
-📫 Reach me out!
+📫 Reach out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Moh.Gamal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gamal00/)
 [![Mail Badge](https://img.shields.io/badge/-Moh.Gamal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedGamalmohamed48@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Moh.Gamal-000000?style=flat&labelColor=0000008&logo=medium&logoColor=white)](https://medium.com/@mohamedgamalmohamed48)
 
 
 - 🔭 I’m currently working at <a href="https://www.areebtechnology.com/">Areeb Technology</a> <img src="https://static.wixstatic.com/media/744456_281103ce7059444a9c65747d72d9ee40~mv2.png/v1/fill/w_180,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-01.png" width="40">
