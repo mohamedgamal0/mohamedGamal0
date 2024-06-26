@@ -34,9 +34,9 @@ I'm a huge fan of Marvel movies! Imagine coding superpowers! <img src="https://m
 ![Bitrise Badge](https://img.shields.io/badge/-Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### More About Me
+### More About Me 👇 
 
-Crafting mobile experiences as an iOS Engineer for over 7 years, I bring apps to life with code that's as robust as it is elegant. My mission? To transform complex problems into user-friendly solutions.
+Crafting mobile experiences as an iOS Engineer for over 7 years, I bring apps to life with code that's as robust as it is elegant 💻🛠️. My mission? To transform complex problems into user-friendly solutions 🎯. Additionally, as a certified Agile developer, I implement flexible and efficient workflows, ensuring that development processes are as dynamic and adaptable as the apps themselves 🔄. This combination of technical proficiency and agile methodologies allows me to deliver superior mobile applications that exceed user expectations 🚀.
 
 ### My Latest Medium Musings
 <!-- MEDIUM:START -->
