@@ -40,8 +40,8 @@ Crafting mobile experiences as an iOS Engineer for over 7 years, I bring apps to
 
 ### My Latest Medium Musings
 <!-- MEDIUM:START -->
-- [Fix Apple’s Missing API Declaration Easily](https://medium.com/@mohamedgamalmohamed48/fix-apples-missing-api-declaration-easily-68e140d0ed2d)
-- [Swift Heroes Unleashed: Super Tricks with Enums!](https://medium.com/@mohamedgamalmohamed48/swift-heroes-unleashed-super-tricks-with-enums-820a1e062479)
+- [Why and When to Use @frozen for Enums in Swift](https://medium.com/@mohamedgamalmohamed48/why-and-when-to-use-frozen-for-enums-in-swift-d471c5c11bfb)
+- [Beyond Basics: Transforming SwiftUI with Grid and List Enhancements from WWDC 2024](https://medium.com/@mohamedgamalmohamed48/beyond-basics-transforming-swiftui-with-grid-and-list-enhancements-from-wwdc-2024-7bcca8ac30da)
 <!-- MEDIUM:END -->
 
 Give some ❤️ by starring some of my repositories and following me on GitHub!
