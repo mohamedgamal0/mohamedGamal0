@@ -1,89 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:F05138&height=200&section=header&text=Mohamed%20Gamal&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Lead%20Software%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Mohamed Gamal" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1F6FEB&height=140&section=header&text=~/mohamed-gamal&fontColor=F05138&fontSize=40&fontAlignY=42&desc=last%20login:%20building%20software%20since%202017&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="mohamed-gamal" />
 
-<a href="https://github.com/mohamedgamal0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=580&lines=9%2B+years+building+software;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Architecture+that+survives+the+next+developer;Shipping+at+Areeb+Technology" alt="What I do" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mohamed-gamal00/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@mohamedgamalmohamed48">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-<a href="mailto:mohamedGamalmohamed48@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=700&color=3FB950&center=true&vCenter=true&width=640&height=60&lines=%24+whoami;%E2%86%92+Lead+Software+Engineer+%40+Areeb+Technology;%24+cat+%2Fetc%2Fmotd;%E2%86%92+%22Ship+it+so+the+next+dev+can+live+with+it.%22" alt="terminal" />
 
 </div>
 
+---
+
+```console
+$ whoami --verbose
+
+  Mohamed Gamal
+  Lead Software Engineer · Areeb Technology · Egypt
+  9+ years building software · iOS specialist
+
+$ _
+```
+
 <br/>
 
-## What I do
+## `$ cat career.log`
 
-I lead iOS development at **[Areeb Technology](https://www.areebtechnology.com/)** — architecture decisions, code quality, and shipping releases the team can maintain after I've moved on to the next thing.
+```log
+[2017] ▸ init — first Swift commit. Learned that shipping is the easy part;
+              living with what you shipped is the job.
 
-Most of my work is Swift: taking a requirement that arrives vague and turning it into something that behaves predictably on a real device, on a bad network, in the hands of someone who has never seen it before. I care about the parts users never notice — clean module boundaries, state that doesn't lie, and builds that don't break on Friday.
+[2019] ▸ scale — moved from building screens to building the things screens
+              are made of. Reusable components, real module boundaries.
 
-Certified Agile developer, which in practice means I spend as much time on how work moves through a team as on the code itself.
+[2021] ▸ depth — Core Data, Realm, offline-first sync. Discovered that
+              "it works on my machine" and "it works on the subway" are
+              different problems.
+
+[2022] ▸ lead — took ownership of architecture and delivery. Started
+              optimizing for the team's velocity, not my own.
+
+[2023] ▸ share — began publishing Swift deep-dives. Teaching a thing is
+              how you find out whether you understood it.
+
+[2024] ▸ now  — leading iOS at Areeb Technology. Certified Agile developer.
+              Still shipping. Still reading other people's stack traces.
+
+$ _
+```
 
 <br/>
 
-## Tech
+## `$ ls -la ~/skills`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,firebase,git,github,githubactions,jira,figma&theme=dark&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=swift,xcode,firebase,git,github,githubactions,jira&theme=dark&perline=7" alt="stack" />
 
 </div>
 
-<div align="center">
-
-`Swift` · `SwiftUI` · `UIKit` · `Core Data` · `Realm` · `Firebase` · `Swift Package Manager` · `Tuist` · `Bitrise` · `Jira`
-
-</div>
+```console
+drwxr-xr-x  language/     Swift
+drwxr-xr-x  ui/           SwiftUI · UIKit
+drwxr-xr-x  data/         Core Data · Realm · Firebase
+drwxr-xr-x  tooling/      Swift Package Manager · Tuist · Git
+drwxr-xr-x  delivery/     Bitrise · GitHub Actions · Jira · Agile
+```
 
 <br/>
 
-## Selected work
+## `$ ls ~/projects --annotated`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [MGOTPKit](https://github.com/mohamedgamal0/MGOTPKit)
-A customizable OTP verification component for iOS, published as a Swift package. Built because every project I joined rewrote this from scratch.
+**[`MGOTPKit/`](https://github.com/mohamedgamal0/MGOTPKit)**
 
-`Swift Package` · `UIKit`
+A customizable OTP verification component, published as a Swift package. Built because every project I joined rewrote this from scratch.
+
+`swift-package` · `uikit`
 
 </td>
 <td width="50%" valign="top">
 
-### [Weather](https://github.com/mohamedgamal0/Weather)
-A weather client focused on clean data flow and a UI that stays readable as conditions change.
+**[`Weather/`](https://github.com/mohamedgamal0/Weather)**
 
-`Swift` · `Networking`
+A weather client built around clean data flow and a UI that stays readable as conditions change.
+
+`swift` · `networking`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Stepper-View](https://github.com/mohamedgamal0/Stepper-View)
-A reusable multi-step progress component — the kind of small, well-bounded UI piece worth getting right once.
+**[`Stepper-View/`](https://github.com/mohamedgamal0/Stepper-View)**
 
-`Swift` · `Custom UI`
+A reusable multi-step progress component — the kind of small, well-bounded piece worth getting right once.
+
+`swift` · `custom-ui`
 
 </td>
 <td width="50%" valign="top">
 
-### [WhatsApp-SwiftUI](https://github.com/mohamedgamal0/WhatsApp-SwiftUI)
-A messaging app built with SwiftUI and Firebase, exploring real-time sync and chat UI patterns.
+**[`WhatsApp-SwiftUI/`](https://github.com/mohamedgamal0/WhatsApp-SwiftUI)**
 
-`SwiftUI` · `Firebase`
+A messaging app exploring real-time sync and chat UI patterns.
+
+`swiftui` · `firebase`
 
 </td>
 </tr>
@@ -91,37 +112,61 @@ A messaging app built with SwiftUI and Firebase, exploring real-time sync and ch
 
 <br/>
 
-## Writing
+## `$ git log --author="Mohamed Gamal" --stat`
 
-I write about the Swift details that are easy to get wrong:
+<div align="center">
 
-- **[Why and When to Use `@frozen` for Enums in Swift](https://medium.com/@mohamedgamalmohamed48/why-and-when-to-use-frozen-for-enums-in-swift-d471c5c11bfb)**
-- **[Beyond Basics: Transforming SwiftUI with Grid and List Enhancements from WWDC 2024](https://medium.com/@mohamedgamalmohamed48/beyond-basics-transforming-swiftui-with-grid-and-list-enhancements-from-wwdc-2024-7bcca8ac30da)**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedgamal0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=F05138&text_color=C9D1D9&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedgamal0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=6" alt="languages" />
 
-More at [medium.com/@mohamedgamalmohamed48](https://medium.com/@mohamedgamalmohamed48).
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedgamal0&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=F05138&area=true&hide_border=true" width="98%" alt="activity" />
+
+</div>
 
 <br/>
 
-## Contributions
+## `$ cat ~/writing/*.md`
+
+```console
+→ Why and When to Use @frozen for Enums in Swift
+→ Beyond Basics: SwiftUI Grid and List Enhancements from WWDC 2024
+```
+
+**[Read them on Medium →](https://medium.com/@mohamedgamalmohamed48)**
+
+<br/>
+
+## `$ ./snake --eat-contributions`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedgamal0/mohamedGamal0/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedgamal0/mohamedGamal0/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/mohamedgamal0/mohamedGamal0/output/snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/mohamedgamal0/mohamedGamal0/output/snake.svg" alt="contribution snake" />
 </picture>
 
 </div>
 
 <br/>
 
+## `$ contact --open`
+
+```console
+$ ssh mohamed@linkedin    → linkedin.com/in/mohamed-gamal00
+$ mail mohamed            → mohamedGamalmohamed48@gmail.com
+$ open ~/writing          → medium.com/@mohamedgamalmohamed48
+
+connection established. open to talking about iOS architecture,
+team practices, or interesting problems.
+
+$ _
+```
+
 <div align="center">
 
-Open to talking about iOS architecture, team practices, or interesting problems.
-
-<a href="https://www.linkedin.com/in/mohamed-gamal00/">LinkedIn</a> · <a href="mailto:mohamedGamalmohamed48@gmail.com">Email</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
 
 </div>
